@@ -654,6 +654,14 @@ a {
     color: #575757!important;
 }
 
+.col-sm-4 a {
+    color: white!important;
+}
+
+.col-sm-12 h1, .col-sm-12 p {
+    color: white!important;
+}
+
 .container {
     max-width: 1000px;
 }
